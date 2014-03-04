@@ -15,6 +15,7 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
 <meta name="viewport" content="width=device-width" />
+<meta name="Description" content="Plaster, historic renovation and remodeling for Charlottesville, Albemarle and surrounding area" />
 <?php fruitful_metadevice(); ?>
 <title><?php wp_title( '|', true, 'right' ); ?></title>
 <link rel="profile" href="http://gmpg.org/xfn/11" />

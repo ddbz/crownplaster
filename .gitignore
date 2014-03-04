@@ -21,3 +21,4 @@ wp-content/backups/
 sitemap.xml
 sitemap.xml.gz
 .htaccess
+wp-content/w3tc-config/master.php
